@@ -2,18 +2,6 @@ Esta "cosa" grupal aún sin nombre está basada principalmente en dos referentes
 
 La intención es atravesar juntos este periodo de cambio, de forma creativa a través de la creación de nuevos proyectos implementando múltiples metodologías de diseño, experimentación y desarrollo. Diseñado para el apoyo mutuo, la construcción de relaciones y el acompañamiento continuo. 
 
-## PRINCIPIOS
-Un conjunto de reglas, protocolos y valores que definen la cultura de este grupo. Voy a listar aquí algunos, y cada quien puede estar de acuerdo, en desacuerdo, y/o sugerir otros principios proponiendoselo al grupo. 
-
-+ Sigue los 4 acuerdos toltecas: "sé implacable con tus palabras", "no te tomes nada personal", "no hagas suposiciones" y "haz siempre lo mejor que puedas".
-+ Interésate por la persona y su desafío
-+ Brinda apoyo
-+ Reta
-+ Mantente abierto al aprendizaje práctico
-+ Mantente presente
-
-Sugiero reunirnos en linea, con ocasionales en persona. En caso de ser personal, nos compartimos las tareas de hosting aportando para la alimentación y el espacio.
-
 ## FORMATO
 >‘Aprender compartiendo retos reales con los demás.’
 
@@ -74,6 +62,18 @@ En cada sesión seguiremos una agenda similar a esta:
     + **Repite el bloque:** Se repite el procedimiento con los demás proyectos que hayan en el circulo si hay tiempo.
 
 5. Cierre [5 min]
+
+## PRINCIPIOS
+Un conjunto de reglas, protocolos y valores que definen la cultura de este grupo. Voy a listar aquí algunos, y cada quien puede estar de acuerdo, en desacuerdo, y/o sugerir otros principios proponiendoselo al grupo. 
+
++ Sigue los 4 acuerdos toltecas: "sé implacable con tus palabras", "no te tomes nada personal", "no hagas suposiciones" y "haz siempre lo mejor que puedas".
++ Interésate por la persona y su desafío
++ Brinda apoyo
++ Reta
++ Mantente abierto al aprendizaje práctico
++ Mantente presente
+
+Sugiero reunirnos en linea, con ocasionales en persona. En caso de ser personal, nos compartimos las tareas de hosting aportando para la alimentación y el espacio.
 
 ---
 
