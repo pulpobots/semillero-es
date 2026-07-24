@@ -20,7 +20,7 @@ Sugiero reunirnos en linea, con ocasionales en persona. En caso de ser personal,
 Nos encontramos en ciclos de 4 a 6 sesiones (semanal o quincenal).
 En cada sesión nos centramos en uno o más proyectos o personas por bloque de 25 minutos.
 
-Cada proyecto|persona en el cual nos enfoquemos durante el bloque será abrazado con una de estas metodologías colaborativas: **Project Kitchen** o **Action Learning Sessions**.
+Cada proyecto / persona en el cual nos enfoquemos durante el bloque será abrazado con una de estas metodologías colaborativas: **Project Kitchen** o **Action Learning Sessions**.
 
 Ambas metodologías tienen estructuras muy similares (que veremos más tarde), la diferencia está en el enfoque:
 
