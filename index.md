@@ -107,8 +107,7 @@ Sugiero reunirnos en linea, con ocasionales en persona. En caso de ser personal,
 
 [^4]: 🥑 Como extra picante, se sugiere a l@s Chef darle la espalda al grupo. Esto es especialmente útil si la persona siente necesidad de defenderse o comentar sobre alguna idea.
 
-[^5]: 🥋 ACTION LEARNING SESSIONS y una guía en el tipo de preguntas que nos pueden ayudar a clarificar (En inglés):
-https://docs.google.com/document/d/1j-PBG42a54bTrpI9dlF0BxAq55FcFTS8sgibEkKOCxk/edit?tab=t.0#heading=h.n4m39rgrz3ei
+[^5]: 🥋 ACTION LEARNING SESSIONS y una guía en el tipo de preguntas que nos pueden ayudar a clarificar (En inglés): https://docs.google.com/document/d/1j-PBG42a54bTrpI9dlF0BxAq55FcFTS8sgibEkKOCxk/edit?tab=t.0#heading=h.n4m39rgrz3ei
 
 ### Referencias
 
